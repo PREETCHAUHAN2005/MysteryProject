@@ -3,7 +3,7 @@ import type { NextRequest } from "next/server";
 export { default } from "next-auth/middleware";
 // This function can be marked `async` if using `await` inside
 import { getToken } from "next-auth/jwt";
-export function proxy(request: NextRequest) {
+export async function middleware(request: NextRequest) {
   const token = await getToken({ req: request });
   const url = request.nextUrl;
   if (
