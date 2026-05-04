@@ -1,4 +1,4 @@
-This is the Next.js Project made by me to implement to implement my daily learnings of Next.js.
+This is the Project made by me to implement to implement my daily learnings of Next.js.
 
 
 ## Getting Started
