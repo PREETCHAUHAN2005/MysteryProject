@@ -1,4 +1,5 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+This is the Next.js Project made by me to implement to implement my daily learnings of Next.js.
+
 
 ## Getting Started
 
